@@ -1,6 +1,8 @@
 import React from "react";
 
 export default function About() {
+  document.title = "About";
+
   return (
     <main role="main" className="container">
       <div className="jumbotron">
