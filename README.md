@@ -11,6 +11,8 @@
 
 * `./node_modules/.bin/prettier --write "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}"` to prettier syntax
 * restart vs code
+* `npm run build` - build the assets
+* `npm run analyze` - analyze the bundle size
 
 # storybook
 
