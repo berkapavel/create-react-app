@@ -35,6 +35,11 @@ export default function Nav() {
               Dashboard
             </Link>
           </li>
+          <li className="nav-item">
+            <Link to="playground" className="nav-link">
+              Playground
+            </Link>
+          </li>
         </ul>
       </div>
     </nav>
