@@ -10,3 +10,10 @@
 # use
 
 * `./node_modules/.bin/prettier --write "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}"` to prettier syntax
+* restart vs code
+
+# storybook
+
+* `npx -p @storybook/cli sb init` // i had problem with installing, because it installed dev version witch wasn't published yet
+* add `"storybook": "start-storybook -p 9001"` into package.json, `scripts` section
+* `npm run storybook`
