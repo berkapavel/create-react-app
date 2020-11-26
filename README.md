@@ -25,3 +25,6 @@
 # can be used
 
 * GraphQL client for React - https://relay.dev/
+* React Router - https://reactrouter.com/web/guides/quick-start 
+    * basic example https://reactrouter.com/web/example/basic
+    * client-side routing https://create-react-app.dev/docs/deployment/#serving-apps-with-client-side-routing
