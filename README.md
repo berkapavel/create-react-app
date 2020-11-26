@@ -21,3 +21,7 @@
 * `npx -p @storybook/cli sb init` // i had problem with installing, because it installed dev version witch wasn't published yet
 * add `"storybook": "start-storybook -p 9001"` into package.json, `scripts` section
 * `npm run storybook`
+
+# can be used
+
+* GraphQL client for React - https://relay.dev/
