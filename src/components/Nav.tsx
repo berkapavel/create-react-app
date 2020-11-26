@@ -4,9 +4,7 @@ import { Link } from "react-router-dom";
 export default function Nav() {
   return (
     <nav className="navbar navbar-expand-md navbar-dark bg-dark mb-4">
-      <a className="navbar-brand" href="{'#'}">
-        Top navbar
-      </a>
+      <span className="navbar-brand">Top navbar</span>
       <button
         className="navbar-toggler"
         type="button"
