@@ -13,6 +13,7 @@
 * restart vs code
 * `npm run build` - build the assets
 * `npm run analyze` - analyze the bundle size
+* `npm run start-ssl` - to start with self-sign certificate (alternatively can be start with specification of SSL_KEY `HTTPS=true SSL_CRT_FILE=cert.crt SSL_KEY_FILE=cert.key npm start`)
 
 # storybook
 
