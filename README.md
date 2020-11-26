@@ -6,3 +6,7 @@
 * `npx create-react-app my-app --template typescript` - install the app
 * `npm start` - open localhost:3000
 * `Ctlr+P` + `ext install msjsdiag.debugger-for-chrome`
+
+# use
+
+* `./node_modules/.bin/prettier --write "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}"` to prettier syntax
