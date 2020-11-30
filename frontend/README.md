@@ -39,3 +39,5 @@ https://create-react-app.dev/docs/getting-started
 # go further
 https://react-typescript-cheatsheet.netlify.app/docs/basic/setup
 
+# tutorial
+* works with https://www.freecodecamp.org/news/how-to-build-a-todo-app-with-react-typescript-nodejs-and-mongodb/
